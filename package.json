@@ -1,0 +1,26 @@
+{
+  "name": "glitnir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiago-pessini/Glitnir.git"
+  },
+  "author": "thiago.pessini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiago-pessini/Glitnir/issues"
+  },
+  "homepage": "https://github.com/thiago-pessini/Glitnir#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
